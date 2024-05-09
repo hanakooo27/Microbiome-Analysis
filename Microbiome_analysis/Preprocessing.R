@@ -1,6 +1,6 @@
 
 # Master data--------------------------------------------------------------------------------------------------------
-#Here, we will try to integrate 36 files (18 from each group) into one master data
+#Here, we will try to integrate 36 files into one master data
 
 #In current directory, 18 folders for each dog are saved; folders are named after dogs (e.g. "Asher")
 #Each folder consists 2 csv files; one is the previous data, and the other is the post data
