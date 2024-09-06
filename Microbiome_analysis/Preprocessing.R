@@ -4,7 +4,7 @@
 
 #In current directory, 18 folders for each dog are saved; folders are named after dogs (e.g. "Asher")
 #Each folder consists 2 csv files; one is the previous data, and the other is the post data
-#They are named "name Previous.csv" and "name Post.csv" respectively. *name is each dogs name
+#They are named "name Previous.csv" and "name Post.csv" respectively. *name is each dog's name
 #Files have following structure;
 #There are nine columns(1:7 taxon levels{Kingdom,Phylm,Class,Order,Family,Genus,Species},8 read counts,9 proportion)
 #                  rows(names of observed bacteria; The number depends on samples)
